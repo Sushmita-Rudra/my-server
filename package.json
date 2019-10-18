@@ -1,23 +1,24 @@
 {
-    "name": "node-server",
-    "version": "1.0.0",
-    "description": "Simple node server",
-    "main": "server.js",
-    "scripts": {
-      "test": "echo \"Error: no test specified\" && exit 1",
-      "start": "node server.js"
-    },
-    "repository": {
-      "type": "git",
-      "url": "node-server"
-    },
-    "keywords": [
-      "JavaScript",
-      "Node.js",
-      "web",
-      "server"
-    ],
-    "author": "Sushmita Rudra",
-    "license": "MIT"
-  }
-  
+  "name": "node-package",
+  "version": "1.0.0",
+  "description": "assignment",
+  "main": "server.js",
+  "scripts": {
+    "test": "server.js",
+    "start": "node server.js"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/Sushmita-Rudra/my-server.git"
+  },
+  "keywords": [
+    "myname",
+    "test"
+  ],
+  "author": "Sushmita Rudra",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/Sushmita-Rudra/my-server/issues"
+  },
+  "homepage": "https://github.com/Sushmita-Rudra/my-server#readme"
+}
